@@ -6,7 +6,7 @@ I'm a small developer currently developing a discord bot in python.
 
 My discord status:
 
-![Discord](https://discord.c99.nl/widget/theme-1/797044260196319282.png)
+![Discord](https://discord.c99.nl/widget/theme-4/797044260196319282.png)
 
 Here are some of my stats:
 
