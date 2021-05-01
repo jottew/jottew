@@ -1,8 +1,8 @@
 ### Hi there 👋
-I'm a small developer currently developing a discord bot in python.
+I'm a small developer currently developing a discord bot in python and learning lua.
 
 - 🌌 I'm currently working on a discord bot named smol shibe (which isn't open source)
-- 👶 I'm currently learning python
+- 👶 I'm currently learning python and lua
 
 My discord status:
 
