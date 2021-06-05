@@ -14,6 +14,8 @@ Here are some of my stats:
 
 [![jottew's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jottew&amp;layout=compact&amp;theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
+[![jottew's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jottew)](https://github.com/anuraghazra/github-readme-stats)
+
 Here are my current projects:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jottew&repo=wakeful)](https://github.com/anuraghazra/github-readme-stats)
