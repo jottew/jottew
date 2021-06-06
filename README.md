@@ -14,4 +14,4 @@ Here are some of my stats:
 
 Here are my current projects:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jottew&repo=wakeful)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jottew&repo=bingbongapi)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jottew&repo=wakeful)](https://github.com/jottew/wakeful) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jottew&repo=bingbongapi)](https://github.com/jottew/bingbongapi)
