@@ -1,8 +1,8 @@
 ### Hi there 👋
-I'm a small developer currently developing a discord bot in python and learning lua.
+I'm a small developer currently developing a discord bot in python.
 
+- 👶 I'm still learning python
 - 🌌 I'm currently working on a [discord bot](https://github.com/jottew/wakeful)
-- 👶 I'm currently learning python and lua
 
 My discord status:
 
